@@ -1,0 +1,1 @@
+/Users/janetvisaya/Documents/shopify/Ely/AGENTS.md
