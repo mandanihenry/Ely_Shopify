@@ -1,0 +1,13 @@
+{
+    "themeCheck.checkOnOpen": true,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "files.associations": {
+        "*.liquid": "liquid"
+    },
+    "emmet.includeLanguages": {
+        "liquid": "html"
+    },
+    "themeCheck.checkOnChange": true
+}
