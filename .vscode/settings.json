@@ -9,5 +9,10 @@
     "emmet.includeLanguages": {
         "liquid": "html"
     },
-    "themeCheck.checkOnChange": true
+    "themeCheck.checkOnChange": true,
+    "[liquid]": {
+        "editor.formatOnType": true,
+        "editor.autoClosingBrackets": "always"
+    },
+    "editor.formatOnType": true
 }
